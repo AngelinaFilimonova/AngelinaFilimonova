@@ -2,7 +2,7 @@ package Cikls;
 
 import java.util.Scanner;
 
-public class BreakCont1 {
+public class BreakCont2{
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int num = scan.nextInt();
